@@ -52,8 +52,8 @@ body {
 
 .img-post {
   border-radius: 8px;
-  width: 48%;
-  height: 350px;
+  min-width: 48%;
+  max-height: 350px;
   object-fit: cover;
   transition: 0.9s;
 }
